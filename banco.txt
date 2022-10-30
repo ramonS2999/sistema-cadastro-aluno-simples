@@ -1,18 +1,114 @@
-1
-Alysson
-3.0
-2.0
-2.5
-reprovado
-2
-Edvan Pereira
-7.0
-8.0
-7.5
-aprovado
-3
-Ramon Lima
+4
+Maria Regina Sousa
 9.0
+5.5
+7.25
+Aprovado
+5
+Lugarto Xuvaskis
+0.0
+10.0
+5.0
+Exame Final
+6
+Marangiste Polenhoso
+4.0
+4.0
+4.0
+Exame Final
+8
+Amaro Dos Santos Xadrez
+10.0
+6.0
 8.0
-8.5
-aprovado
+Aprovado
+9
+Ludico Marinho Gorvete
+5.0
+3.0
+4.0
+Exame Final
+10
+Juju
+4.0
+5.0
+4.5
+Exame Final
+11
+Werewr
+5.0
+10.0
+7.5
+Aprovado
+12
+Fadsf Dsfasd S Sdfa Sd Sdfa
+5.0
+5.0
+5.0
+Exame Final
+13
+Fas Sfasd Sfas F As
+3.0
+4.0
+3.5
+Reprovado
+14
+Fas Sfasd Sfas F As
+3.0
+4.0
+3.5
+Reprovado
+15
+Fas Sfasd Sfas F As
+3.0
+4.0
+3.5
+Reprovado
+16
+Fas Sfasd Sfas F As
+3.0
+4.0
+3.5
+Reprovado
+19
+Gew Ewrt 465456465
+6.0
+9.0
+7.5
+Aprovado
+20
+Eewt
+5.0
+4.0
+4.5
+Exame Final
+21
+Luis Ransley
+10.0
+5.0
+7.5
+Aprovado
+22
+Rasta Fare
+4.0
+5.0
+4.5
+Exame Final
+23
+Wtgh Asa  Dsfasdf
+0.0
+0.0
+0.0
+Reprovado
+24
+Asfas Sf Asdf Asdfas
+1.0
+1.0
+1.0
+Reprovado
+25
+Algue´M Famoso
+4.65
+2.45
+3.55
+Reprovado
