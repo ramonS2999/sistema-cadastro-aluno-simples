@@ -140,7 +140,7 @@ def alterar_aluno():
             # Botão para confirmar a alualização do aluno
             bt_excluir_aluno = Button(janela_alterar_aluno, bd=0, bg='Red', text="Alterar",
                                       command=lambda:aluno_atualizado(nome, nota1, nota2, aluno_alterar, tx_nome, tx_nota1, tx_nota2))
-            bt_excluir_aluno.place(width=250, height=62, x=420, y=(600 - 150))
+            bt_excluir_aluno.place(width=250, height=50, x=420, y=(600 - 150))
 
 
     def aluno_atualizado(nome, nota1, nota2, aluno_alterar, tx_nome, tx_nota1, tx_nota2):
@@ -148,11 +148,11 @@ def alterar_aluno():
 
         if valor == 0:
             # Criando as labels
-            label_informativa = Label(janela_alterar_aluno, justify="center", font=cf.font2, text="Atualização Falhou")
+            label_informativa = Label(janela_alterar_aluno, justify="center", font=cf.font2, text="Alteração Falhou")
             label_informativa.place(width=1300, height=250, x=1, y=10)
         else:
             # Criando as labels
-            label_informativa = Label(janela_alterar_aluno, justify="center", font=cf.font2, text="Atualizado com sucesso!")
+            label_informativa = Label(janela_alterar_aluno, justify="center", font=cf.font2, text="Alterado com sucesso!")
             label_informativa.place(width=1300, height=250, x=1, y=10)
             tx_nome.delete(0, "end")
             tx_nota1.delete(0, END)
